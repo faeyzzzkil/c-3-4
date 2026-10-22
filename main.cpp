@@ -18,5 +18,7 @@ int main() {
         cout << "Nilai: D" << endl;
     }
 
+    system("pause");
+
     return 0;
 }
